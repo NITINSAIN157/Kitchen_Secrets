@@ -1,0 +1,11 @@
+streamlit
+Pillow
+numpy
+pandas
+folium
+streamlit-folium
+geopy
+sentence-transformers==2.2.2
+fasttext-wheel==0.9.2
+wikipedia
+altair
